@@ -1,0 +1,134 @@
+\begin{thebibliography}{10}
+
+\bibitem{amodei2016concrete}
+Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and
+  Dan Man{\'e}.
+\newblock Concrete problems in ai safety.
+\newblock {\em arXiv preprint arXiv:1606.06565}, 2016.
+
+\bibitem{baird1995residual}
+Leemon Baird.
+\newblock Residual algorithms: Reinforcement learning with function
+  approximation.
+\newblock In {\em Machine Learning Proceedings 1995}, pages 30--37. Elsevier,
+  1995.
+
+\bibitem{balakrishnan2019incorporating}
+Avinash Balakrishnan, Djallel Bouneffouf, Nicholas Mattei, and Francesca Rossi.
+\newblock Incorporating behavioral constraints in online ai systems.
+\newblock In {\em Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~33, pages 3--11, 2019.
+
+\bibitem{bialek1999predictive}
+William Bialek and Naftali Tishby.
+\newblock Predictive information, 1999.
+\newblock arXiv/cond-mat/9902341.
+
+\bibitem{blaes2019control}
+Sebastian Blaes, Marin~Vlastelica Pogan{\v{c}}i{\'c}, Jiajie Zhu, and Georg
+  Martius.
+\newblock Control what you can: Intrinsically motivated task-planning agent.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  12520--12531, 2019.
+
+\bibitem{chentanez2005intrinsically}
+Nuttapong Chentanez, Andrew~G Barto, and Satinder~P Singh.
+\newblock Intrinsically motivated reinforcement learning.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  1281--1288, 2005.
+
+\bibitem{der2012playful}
+Ralf Der and Georg Martius.
+\newblock {\em The playful machine: {T}heoretical foundation and practical
+  realization of self-organizing robots}, volume~15.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem{friston2006free}
+Karl Friston, James Kilner, and Lee Harrison.
+\newblock A free energy principle for the brain.
+\newblock {\em Journal of Physiology-Paris}, 100(1-3):70--87, 2006.
+
+\bibitem{herrmann1995efficient}
+M~Herrmann and R~Der.
+\newblock Efficient {Q}-learning by division of labour.
+\newblock In {\em Proceedings ICANN}, volume~95, pages 129--134, 1995.
+
+\bibitem{kaelbling1998planning}
+Leslie~Pack Kaelbling, Michael~L Littman, and Anthony~R Cassandra.
+\newblock Planning and acting in partially observable stochastic domains.
+\newblock {\em Artificial intelligence}, 101(1-2):99--134, 1998.
+
+\bibitem{klyubin2005all}
+Alexander~S Klyubin, Daniel Polani, and Chrystopher~L Nehaniv.
+\newblock All else being equal be empowered.
+\newblock In {\em European Conference on Artificial Life}, pages 744--753.
+  Springer, 2005.
+
+\bibitem{klyubin2005empowerment}
+Alexander~S Klyubin, Daniel Polani, and Chrystopher~L Nehaniv.
+\newblock Empowerment: A universal agent-centric measure of control.
+\newblock In {\em 2005 IEEE Congress on Evolutionary Computation}, volume~1,
+  pages 128--135. IEEE, 2005.
+
+\bibitem{leike2017ai}
+Jan Leike, Miljan Martic, Victoria Krakovna, Pedro~A Ortega, Tom Everitt,
+  Andrew Lefrancq, Laurent Orseau, and Shane Legg.
+\newblock Ai safety gridworlds.
+\newblock {\em arXiv preprint arXiv:1711.09883}, 2017.
+
+\bibitem{ng2000algorithms}
+Andrew~Y Ng and Stuart~J Russell.
+\newblock Algorithms for inverse reinforcement learning.
+\newblock In {\em {IMCL}}, pages 663--670, 2000.
+
+\bibitem{pathak2017curiosity}
+Deepak Pathak, Pulkit Agrawal, Alexei~A Efros, and Trevor Darrell.
+\newblock Curiosity-driven exploration by self-supervised prediction.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition Workshops}, pages 16--17, 2017.
+
+\bibitem{pfau2016connecting}
+David Pfau and Oriol Vinyals.
+\newblock Connecting generative adversarial networks and actor-critic methods.
+\newblock {\em arXiv preprint arXiv:1610.01945}, 2016.
+
+\bibitem{salge2014empowerment}
+Christoph Salge, Cornelius Glackin, and Daniel Polani.
+\newblock Empowerment -- {A}n introduction.
+\newblock In {\em Guided Self-Organization: Inception}, pages 67--114.
+  Springer, 2014.
+
+\bibitem{smith2018evaluation}
+Sim{\'o}n~C Smith and J~Michael Herrmann.
+\newblock Evaluation of internal models in autonomous learning.
+\newblock {\em IEEE Transactions on Cognitive and Developmental Systems},
+  11(4):463--472, 2019.
+
+\bibitem{still2012information}
+Susanne Still and Doina Precup.
+\newblock An information-theoretic approach to curiosity-driven reinforcement
+  learning.
+\newblock {\em Theory in Biosciences}, 131(3):139--148, 2012.
+
+\bibitem{thrun2002probabilistic}
+Sebastian Thrun.
+\newblock Probabilistic robotics.
+\newblock {\em Communications of the ACM}, 45(3):52--57, 2002.
+
+\bibitem{tschantz2020reinforcement}
+Alexander Tschantz, Beren Millidge, Anil~K Seth, and Christopher~L Buckley.
+\newblock Reinforcement learning through active inference.
+\newblock {\em arXiv preprint arXiv:2002.12636}, 2020.
+
+\bibitem{zhao2019learning}
+Ruihan Zhao, Stas Tiomkin, and Pieter Abbeel.
+\newblock Learning efficient representation for intrinsic motivation.
+\newblock {\em arXiv preprint arXiv:1912.02624}, 2019.
+
+\bibitem{ziebart2008maximum}
+Brian~D Ziebart, Andrew~L Maas, J~Andrew Bagnell, and Anind~K Dey.
+\newblock Maximum entropy inverse reinforcement learning.
+\newblock In {\em Proc. 23$^{\rm rd}$ AAAI Conference on Artificial
+  Intelligence}, volume~8, pages 1433--1438. Chicago, IL, USA, 2008.
+
+\end{thebibliography}

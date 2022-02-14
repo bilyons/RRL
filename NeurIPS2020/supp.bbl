@@ -1,0 +1,48 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Finn et~al.(2016)Finn, Christiano, Abbeel, and
+  Levine]{finn2016connection}
+Chelsea Finn, Paul Christiano, Pieter Abbeel, and Sergey Levine.
+\newblock A connection between generative adversarial networks, inverse
+  reinforcement learning, and energy-based models.
+\newblock \emph{arXiv preprint arXiv:1611.03852}, 2016.
+
+\bibitem[Kakade(2002)]{kakade2002natural}
+Sham~M Kakade.
+\newblock A natural policy gradient.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pages
+  1531--1538, 2002.
+
+\bibitem[Mahajan and Tulabandhula(2017)]{mahajan2017symmetry}
+Anuj Mahajan and Theja Tulabandhula.
+\newblock Symmetry learning for function approximation in reinforcement
+  learning.
+\newblock \emph{arXiv preprint 1706.02999}, 2017.
+
+\bibitem[Ravindran and Barto(2001)]{Ravindran2001}
+B.~Ravindran and A.~G. Barto.
+\newblock Symmetries and model minimization in markov decision processes.
+\newblock Technical report, University of Massachusetts, Computer and
+  Information Science Dept. Graduate Research Center Amherst, MA, USA, 2001.
+
+\bibitem[Sutton et~al.(2000)Sutton, McAllester, Singh, and
+  Mansour]{sutton2000policy}
+Richard~S. Sutton, David~A. McAllester, Satinder~P. Singh, and Yishay Mansour.
+\newblock Policy gradient methods for reinforcement learning with function
+  approximation.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pages
+  1057--1063, 2000.
+
+\bibitem[Ziebart et~al.(2008)Ziebart, Maas, Bagnell, and
+  Dey]{ziebart2008maximum}
+Brian~D Ziebart, Andrew~L Maas, J~Andrew Bagnell, and Anind~K Dey.
+\newblock Maximum entropy inverse reinforcement learning.
+\newblock In \emph{Proc. 23$^{\rm rd}$ AAAI Conference on Artificial
+  Intelligence}, volume~8, pages 1433--1438. Chicago, IL, USA, 2008.
+
+\end{thebibliography}

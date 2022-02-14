@@ -1,0 +1,475 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7609): Gdk-CRITICAL **: 14:04:49.625: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+  0%|          | 0/5000 [00:00<?, ?it/s] 17%|█▋        | 829/5000 [00:00<00:00, 8287.22it/s] 34%|███▍      | 1688/5000 [00:00<00:00, 8460.21it/s] 51%|█████     | 2552/5000 [00:00<00:00, 8540.84it/s] 68%|██████▊   | 3407/5000 [00:00<00:00, 8529.32it/s] 86%|████████▌ | 4276/5000 [00:00<00:00, 8584.81it/s]100%|██████████| 5000/5000 [00:00<00:00, 8538.39it/s]
+  0%|          | 0/500 [00:00<?, ?it/s]Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7637): Gdk-CRITICAL **: 14:04:50.771: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7638): Gdk-CRITICAL **: 14:04:50.808: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7636): Gdk-CRITICAL **: 14:04:50.939: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7644): Gdk-CRITICAL **: 14:04:50.952: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7646): Gdk-CRITICAL **: 14:04:50.966: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7645): Gdk-CRITICAL **: 14:04:50.968: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7643): Gdk-CRITICAL **: 14:04:50.969: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7640): Gdk-CRITICAL **: 14:04:50.971: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7639): Gdk-CRITICAL **: 14:04:50.973: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7635): Gdk-CRITICAL **: 14:04:50.974: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7642): Gdk-CRITICAL **: 14:04:50.978: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7641): Gdk-CRITICAL **: 14:04:51.004: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7927): Gdk-CRITICAL **: 14:05:13.938: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+  0%|          | 0/5000 [00:00<?, ?it/s]  8%|▊         | 398/5000 [00:00<00:01, 3549.97it/s] 15%|█▌        | 753/5000 [00:00<00:01, 2494.55it/s] 24%|██▎       | 1180/5000 [00:00<00:01, 3131.00it/s] 31%|███       | 1542/5000 [00:00<00:01, 3171.52it/s] 39%|███▉      | 1941/5000 [00:00<00:00, 3424.75it/s] 46%|████▌     | 2304/5000 [00:00<00:00, 3369.01it/s] 53%|█████▎    | 2650/5000 [00:00<00:00, 2952.65it/s] 61%|██████▏   | 3070/5000 [00:00<00:00, 3288.89it/s] 70%|███████   | 3500/5000 [00:01<00:00, 3570.34it/s] 78%|███████▊  | 3915/5000 [00:01<00:00, 3596.13it/s] 86%|████████▌ | 4306/5000 [00:01<00:00, 3684.45it/s] 95%|█████████▍| 4727/5000 [00:01<00:00, 3829.97it/s]100%|██████████| 5000/5000 [00:01<00:00, 3479.52it/s]
+  0%|          | 0/500 [00:00<?, ?it/s]Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7954): Gdk-CRITICAL **: 14:05:16.292: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7962): Gdk-CRITICAL **: 14:05:16.499: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7957): Gdk-CRITICAL **: 14:05:16.530: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7958): Gdk-CRITICAL **: 14:05:16.531: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7961): Gdk-CRITICAL **: 14:05:16.550: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7960): Gdk-CRITICAL **: 14:05:16.574: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7953): Gdk-CRITICAL **: 14:05:16.588: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7964): Gdk-CRITICAL **: 14:05:16.674: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7956): Gdk-CRITICAL **: 14:05:16.688: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7963): Gdk-CRITICAL **: 14:05:16.711: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7959): Gdk-CRITICAL **: 14:05:16.875: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:7955): Gdk-CRITICAL **: 14:05:16.896: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+  0%|          | 0/500 [02:17<?, ?it/s]
+Process SpawnPoolWorker-4:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.8/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 355, in get
+    with self._rlock:
+  File "/usr/lib/python3.8/multiprocessing/synchronize.py", line 95, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt
+Process SpawnPoolWorker-7:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.8/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 355, in get
+    with self._rlock:
+  File "/usr/lib/python3.8/multiprocessing/synchronize.py", line 95, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt
+Process SpawnPoolWorker-6:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.8/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 355, in get
+    with self._rlock:
+  File "/usr/lib/python3.8/multiprocessing/synchronize.py", line 95, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt
+Process SpawnPoolWorker-2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.8/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 355, in get
+    with self._rlock:
+  File "/usr/lib/python3.8/multiprocessing/synchronize.py", line 95, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt
+Process SpawnPoolWorker-5:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.8/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 355, in get
+    with self._rlock:
+  File "/usr/lib/python3.8/multiprocessing/synchronize.py", line 95, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt
+Process SpawnPoolWorker-11:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.8/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 355, in get
+    with self._rlock:
+  File "/usr/lib/python3.8/multiprocessing/synchronize.py", line 95, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt
+Process SpawnPoolWorker-10:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.8/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 355, in get
+    with self._rlock:
+  File "/usr/lib/python3.8/multiprocessing/synchronize.py", line 95, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt
+Process SpawnPoolWorker-8:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.8/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 355, in get
+    with self._rlock:
+  File "/usr/lib/python3.8/multiprocessing/synchronize.py", line 95, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt
+Process SpawnPoolWorker-3:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.8/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 356, in get
+    res = self._reader.recv_bytes()
+  File "/usr/lib/python3.8/multiprocessing/connection.py", line 216, in recv_bytes
+    buf = self._recv_bytes(maxlength)
+  File "/usr/lib/python3.8/multiprocessing/connection.py", line 414, in _recv_bytes
+    buf = self._recv(4)
+  File "/usr/lib/python3.8/multiprocessing/connection.py", line 379, in _recv
+    chunk = read(handle, remaining)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/billy-work/.local/lib/python3.8/site-packages/parfor/__init__.py", line 502, in pmap
+    p[i] = j
+  File "/home/billy-work/.local/lib/python3.8/site-packages/parfor/__init__.py", line 372, in __setitem__
+    self(n, handle=handle)
+  File "/home/billy-work/.local/lib/python3.8/site-packages/parfor/__init__.py", line 350, in __call__
+    self._getfromq()
+  File "/home/billy-work/.local/lib/python3.8/site-packages/parfor/__init__.py", line 313, in _getfromq
+    r = self.Qo.get(True, 0.02)
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 107, in get
+    if not self._poll(timeout):
+  File "/usr/lib/python3.8/multiprocessing/connection.py", line 257, in poll
+    return self._poll(timeout)
+  File "/usr/lib/python3.8/multiprocessing/connection.py", line 424, in _poll
+    r = wait([self], timeout)
+  File "/usr/lib/python3.8/multiprocessing/connection.py", line 931, in wait
+    ready = selector.select(timeout)
+  File "/usr/lib/python3.8/selectors.py", line 415, in select
+    fd_event_list = self._selector.poll(timeout)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 94, in <module>
+    main()
+  File "main.py", line 86, in main
+    listed = pmap(parallelo.parallel, range(runs))
+  File "/home/billy-work/.local/lib/python3.8/site-packages/parfor/__init__.py", line 506, in pmap
+    return [p[i] for i in range(length)] #collect the results
+  File "/home/billy-work/.local/lib/python3.8/site-packages/parfor/__init__.py", line 308, in __exit__
+    self.close()
+  File "/home/billy-work/.local/lib/python3.8/site-packages/parfor/__init__.py", line 406, in close
+    self._close_queue(self.Qi)
+  File "/home/billy-work/.local/lib/python3.8/site-packages/parfor/__init__.py", line 424, in _close_queue
+    Q.join_thread()
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 148, in join_thread
+    self._jointhread()
+  File "/usr/lib/python3.8/multiprocessing/util.py", line 224, in __call__
+    res = self._callback(*self._args, **self._kwargs)
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 195, in _finalize_join
+    thread.join()
+  File "/usr/lib/python3.8/threading.py", line 1011, in join
+    self._wait_for_tstate_lock()
+  File "/usr/lib/python3.8/threading.py", line 1027, in _wait_for_tstate_lock
+    elif lock.acquire(block, timeout):
+KeyboardInterrupt
+Process SpawnPoolWorker-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/lib/python3.8/multiprocessing/pool.py", line 114, in worker
+    task = get()
+  File "/usr/lib/python3.8/multiprocessing/queues.py", line 355, in get
+    with self._rlock:
+  File "/usr/lib/python3.8/multiprocessing/synchronize.py", line 95, in __enter__
+    return self._semlock.__enter__()
+KeyboardInterrupt
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:8280): Gdk-CRITICAL **: 14:07:53.520: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+  0%|          | 0/5000 [00:00<?, ?it/s]  6%|▌         | 276/5000 [00:00<00:01, 2747.63it/s] 12%|█▏        | 620/5000 [00:00<00:01, 3151.78it/s] 20%|██        | 1008/5000 [00:00<00:01, 3483.51it/s] 28%|██▊       | 1393/5000 [00:00<00:00, 3619.46it/s] 36%|███▌      | 1786/5000 [00:00<00:00, 3729.37it/s] 43%|████▎     | 2159/5000 [00:00<00:00, 3631.00it/s] 50%|█████     | 2523/5000 [00:00<00:00, 3320.42it/s] 57%|█████▋    | 2860/5000 [00:00<00:00, 3176.71it/s] 66%|██████▌   | 3282/5000 [00:00<00:00, 3472.45it/s] 73%|███████▎  | 3635/5000 [00:01<00:00, 3225.39it/s] 80%|████████  | 4012/5000 [00:01<00:00, 3375.85it/s] 88%|████████▊ | 4381/5000 [00:01<00:00, 3459.19it/s] 95%|█████████▌| 4750/5000 [00:01<00:00, 3525.55it/s]100%|██████████| 5000/5000 [00:01<00:00, 3375.64it/s]
+  0%|          | 0/500 [00:00<?, ?it/s]Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:8311): Gdk-CRITICAL **: 14:07:56.111: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:8316): Gdk-CRITICAL **: 14:07:56.155: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:8314): Gdk-CRITICAL **: 14:07:56.162: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:8312): Gdk-CRITICAL **: 14:07:56.293: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:8309): Gdk-CRITICAL **: 14:07:56.323: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:8307): Gdk-CRITICAL **: 14:07:56.401: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(main.py:8315): Gdk-CRITICAL **: 14:07:56.401: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:8310): Gdk-CRITICAL **: 14:07:56.455: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:8317): Gdk-CRITICAL **: 14:07:56.464: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:8313): Gdk-CRITICAL **: 14:07:56.472: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:8306): Gdk-CRITICAL **: 14:07:56.534: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:8308): Gdk-CRITICAL **: 14:07:56.546: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+  0%|          | 1/500 [04:11<34:53:33, 251.73s/it]  0%|          | 2/500 [04:21<15:07:34, 109.35s/it]  1%|          | 3/500 [04:40<9:24:09, 68.11s/it]    1%|          | 4/500 [04:41<5:44:22, 41.66s/it]  1%|          | 5/500 [04:44<3:49:20, 27.80s/it]  1%|          | 6/500 [04:46<2:34:57, 18.82s/it]  1%|▏         | 7/500 [04:47<1:48:12, 13.17s/it]  2%|▏         | 8/500 [04:49<1:19:27,  9.69s/it]  2%|▏         | 9/500 [04:52<1:00:24,  7.38s/it]  2%|▏         | 10/500 [04:54<46:38,  5.71s/it]   2%|▏         | 11/500 [05:02<53:12,  6.53s/it]  2%|▏         | 12/500 [05:11<59:57,  7.37s/it]  0%|          | 1/500 [04:45<39:37:59, 285.93s/it]  0%|          | 2/500 [04:59<17:25:05, 125.91s/it]Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:11694): Gdk-CRITICAL **: 14:13:01.217: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+  0%|          | 0/5000 [00:00<?, ?it/s]  4%|▍         | 207/5000 [00:00<00:02, 2065.65it/s]  8%|▊         | 414/5000 [00:00<00:02, 1964.82it/s] 12%|█▏        | 611/5000 [00:00<00:02, 1779.74it/s] 16%|█▌        | 791/5000 [00:00<00:02, 1679.43it/s] 19%|█▉        | 961/5000 [00:00<00:02, 1496.10it/s] 22%|██▏       | 1114/5000 [00:00<00:02, 1402.87it/s] 26%|██▌       | 1278/5000 [00:00<00:02, 1467.12it/s] 29%|██▊       | 1427/5000 [00:00<00:02, 1350.86it/s] 31%|███▏      | 1565/5000 [00:01<00:02, 1297.58it/s] 35%|███▍      | 1726/5000 [00:01<00:02, 1381.35it/s] 38%|███▊      | 1897/5000 [00:01<00:02, 1471.61it/s] 41%|████      | 2047/5000 [00:01<00:02, 1406.70it/s] 44%|████▍     | 2213/5000 [00:01<00:01, 1396.05it/s] 47%|████▋     | 2355/5000 [00:01<00:01, 1364.24it/s] 50%|█████     | 2511/5000 [00:01<00:01, 1367.11it/s] 54%|█████▎    | 2687/5000 [00:01<00:01, 1411.72it/s] 57%|█████▋    | 2843/5000 [00:01<00:01, 1447.95it/s] 60%|██████    | 3013/5000 [00:02<00:01, 1507.97it/s] 63%|██████▎   | 3165/5000 [00:02<00:01, 1494.63it/s] 66%|██████▋   | 3315/5000 [00:02<00:01, 1453.58it/s] 69%|██████▉   | 3462/5000 [00:02<00:01, 1457.13it/s] 72%|███████▏  | 3609/5000 [00:02<00:01, 1384.06it/s] 75%|███████▍  | 3749/5000 [00:02<00:00, 1326.69it/s] 78%|███████▊  | 3902/5000 [00:02<00:00, 1303.96it/s] 81%|████████  | 4036/5000 [00:02<00:00, 1259.00it/s] 84%|████████▍ | 4220/5000 [00:02<00:00, 1329.89it/s] 87%|████████▋ | 4363/5000 [00:03<00:00, 1327.87it/s] 91%|█████████ | 4551/5000 [00:03<00:00, 1477.03it/s] 94%|█████████▍| 4701/5000 [00:03<00:00, 1378.14it/s] 97%|█████████▋| 4841/5000 [00:03<00:00, 1370.95it/s]100%|██████████| 5000/5000 [00:03<00:00, 1433.06it/s]
+  0%|          | 0/500 [00:00<?, ?it/s]Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:11728): Gdk-CRITICAL **: 14:13:06.399: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:11723): Gdk-CRITICAL **: 14:13:06.407: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:11720): Gdk-CRITICAL **: 14:13:06.437: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:11724): Gdk-CRITICAL **: 14:13:06.491: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:11726): Gdk-CRITICAL **: 14:13:06.523: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:11729): Gdk-CRITICAL **: 14:13:06.589: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:11725): Gdk-CRITICAL **: 14:13:06.611: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:11722): Gdk-CRITICAL **: 14:13:06.620: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:11731): Gdk-CRITICAL **: 14:13:06.625: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:11730): Gdk-CRITICAL **: 14:13:06.630: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:11721): Gdk-CRITICAL **: 14:13:06.719: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(main.py:11727): Gdk-CRITICAL **: 14:13:06.719: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+  1%|          | 3/500 [05:25<11:04:33, 80.23s/it]   1%|          | 4/500 [05:27<6:45:49, 49.09s/it]   1%|          | 5/500 [05:35<4:42:47, 34.28s/it]  1%|          | 6/500 [05:40<3:21:33, 24.48s/it]  1%|▏         | 7/500 [05:47<2:34:56, 18.86s/it]  2%|▏         | 8/500 [05:49<1:50:58, 13.53s/it]  2%|▏         | 9/500 [05:50<1:18:04,  9.54s/it]  2%|▏         | 10/500 [06:07<1:36:42, 11.84s/it]  2%|▏         | 11/500 [06:11<1:16:11,  9.35s/it]  2%|▏         | 12/500 [06:18<1:10:48,  8.71s/it]  3%|▎         | 13/500 [10:32<13:50:24, 102.31s/it]  3%|▎         | 14/500 [10:50<10:21:14, 76.70s/it] Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:12402): Gdk-CRITICAL **: 14:16:15.783: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    from tqdm import tqdm
+ModuleNotFoundError: No module named 'tqdm'
+  3%|▎         | 15/500 [11:28<8:46:44, 65.16s/it]   3%|▎         | 16/500 [11:29<6:08:54, 45.73s/it]  3%|▎         | 17/500 [11:30<4:19:21, 32.22s/it]  4%|▎         | 18/500 [11:34<3:11:42, 23.86s/it]  4%|▍         | 19/500 [11:39<2:25:44, 18.18s/it]  4%|▍         | 20/500 [11:46<1:59:37, 14.95s/it]  4%|▍         | 21/500 [11:50<1:32:06, 11.54s/it]  4%|▍         | 22/500 [11:52<1:09:50,  8.77s/it]  5%|▍         | 23/500 [12:03<1:13:59,  9.31s/it]  5%|▍         | 24/500 [12:29<1:53:30, 14.31s/it]  3%|▎         | 13/500 [13:41<18:59:03, 140.34s/it]  0%|          | 1/500 [08:39<71:56:54, 519.07s/it]  0%|          | 2/500 [08:55<30:53:36, 223.33s/it]  1%|          | 3/500 [09:03<17:17:04, 125.20s/it]  1%|          | 4/500 [09:07<10:38:28, 77.24s/it]   1%|          | 5/500 [09:13<7:05:29, 51.58s/it]   3%|▎         | 14/500 [14:25<15:00:31, 111.18s/it]  1%|          | 6/500 [09:16<4:47:39, 34.94s/it]  3%|▎         | 15/500 [14:28<10:35:44, 78.65s/it]   1%|▏         | 7/500 [09:19<3:22:08, 24.60s/it]  2%|▏         | 8/500 [09:23<2:27:35, 18.00s/it]  2%|▏         | 9/500 [09:24<1:42:57, 12.58s/it]  2%|▏         | 10/500 [09:36<1:41:39, 12.45s/it]  3%|▎         | 16/500 [14:47<8:07:58, 60.49s/it]   3%|▎         | 17/500 [14:48<5:44:37, 42.81s/it]  2%|▏         | 11/500 [09:40<1:20:15,  9.85s/it]  4%|▎         | 18/500 [14:49<4:02:58, 30.25s/it]  4%|▍         | 19/500 [14:52<2:55:22, 21.88s/it]  2%|▏         | 12/500 [09:49<1:18:43,  9.68s/it]  4%|▍         | 20/500 [14:59<2:19:04, 17.38s/it]  4%|▍         | 21/500 [15:00<1:39:21, 12.45s/it]  4%|▍         | 22/500 [15:21<2:00:29, 15.13s/it]  5%|▍         | 23/500 [15:33<1:53:28, 14.27s/it]  5%|▍         | 24/500 [15:40<1:34:38, 11.93s/it]  5%|▌         | 25/500 [19:56<19:01:46, 144.22s/it]  5%|▌         | 26/500 [20:13<13:58:53, 106.19s/it]  5%|▌         | 27/500 [20:30<10:26:12, 79.43s/it]   6%|▌         | 28/500 [20:49<8:00:50, 61.12s/it]   6%|▌         | 29/500 [21:10<6:24:44, 49.01s/it]  6%|▌         | 30/500 [21:13<4:36:49, 35.34s/it]  6%|▌         | 31/500 [21:20<3:30:36, 26.94s/it]  6%|▋         | 32/500 [21:26<2:39:35, 20.46s/it]  7%|▋         | 33/500 [21:38<2:21:11, 18.14s/it]  7%|▋         | 34/500 [21:43<1:48:45, 14.00s/it]  7%|▋         | 35/500 [21:50<1:32:49, 11.98s/it]  7%|▋         | 36/500 [22:39<2:57:42, 22.98s/it]Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13604): Gdk-CRITICAL **: 14:28:57.460: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+  0%|          | 0/5000 [00:00<?, ?it/s]  4%|▍         | 217/5000 [00:00<00:02, 2169.84it/s]  9%|▊         | 434/5000 [00:00<00:02, 1946.77it/s] 13%|█▎        | 635/5000 [00:00<00:02, 1971.73it/s] 17%|█▋        | 834/5000 [00:00<00:02, 1908.11it/s] 21%|██        | 1026/5000 [00:00<00:02, 1832.56it/s] 24%|██▍       | 1210/5000 [00:00<00:02, 1765.23it/s] 28%|██▊       | 1390/5000 [00:00<00:02, 1745.41it/s] 31%|███▏      | 1565/5000 [00:00<00:02, 1642.50it/s] 35%|███▍      | 1743/5000 [00:00<00:01, 1634.51it/s] 38%|███▊      | 1915/5000 [00:01<00:01, 1657.47it/s] 42%|████▏     | 2082/5000 [00:01<00:01, 1630.31it/s] 45%|████▌     | 2273/5000 [00:01<00:01, 1652.18it/s] 50%|████▉     | 2485/5000 [00:01<00:01, 1723.46it/s] 54%|█████▍    | 2689/5000 [00:01<00:01, 1811.84it/s] 57%|█████▋    | 2871/5000 [00:01<00:01, 1789.50it/s] 61%|██████    | 3059/5000 [00:01<00:01, 1702.60it/s] 65%|██████▌   | 3255/5000 [00:01<00:01, 1721.89it/s] 69%|██████▊   | 3428/5000 [00:01<00:01, 1566.44it/s] 73%|███████▎  | 3647/5000 [00:02<00:00, 1623.05it/s] 76%|███████▋  | 3822/5000 [00:02<00:00, 1543.50it/s] 80%|███████▉  | 3978/5000 [00:02<00:00, 1481.53it/s] 83%|████████▎ | 4127/5000 [00:02<00:00, 1418.25it/s] 85%|████████▌ | 4270/5000 [00:02<00:00, 1370.74it/s] 88%|████████▊ | 4408/5000 [00:02<00:00, 1277.97it/s] 91%|█████████ | 4542/5000 [00:02<00:00, 1245.11it/s] 93%|█████████▎| 4667/5000 [00:02<00:00, 1118.78it/s] 96%|█████████▌| 4795/5000 [00:03<00:00, 1159.41it/s]100%|██████████| 5000/5000 [00:03<00:00, 1587.72it/s]
+  0%|          | 0/500 [00:00<?, ?it/s]Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13632): Gdk-CRITICAL **: 14:29:02.484: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13630): Gdk-CRITICAL **: 14:29:02.519: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13636): Gdk-CRITICAL **: 14:29:02.800: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13641): Gdk-CRITICAL **: 14:29:02.808: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13637): Gdk-CRITICAL **: 14:29:02.889: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13635): Gdk-CRITICAL **: 14:29:02.893: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13634): Gdk-CRITICAL **: 14:29:02.944: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13633): Gdk-CRITICAL **: 14:29:02.956: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13631): Gdk-CRITICAL **: 14:29:02.965: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13639): Gdk-CRITICAL **: 14:29:03.001: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13638): Gdk-CRITICAL **: 14:29:03.026: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Unable to init server: Could not connect: Connection refused
+
+(main.py:13640): Gdk-CRITICAL **: 14:29:03.055: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+  0%|          | 0/5000 [00:00<?, ?it/s]  2%|▏         | 105/5000 [00:00<00:04, 1049.85it/s]  4%|▍         | 210/5000 [00:00<00:04, 968.83it/s]   6%|▌         | 308/5000 [00:00<00:05, 923.71it/s]  8%|▊         | 401/5000 [00:00<00:05, 824.03it/s] 10%|▉         | 499/5000 [00:00<00:05, 853.11it/s] 12%|█▏        | 588/5000 [00:00<00:05, 823.86it/s] 14%|█▎        | 675/5000 [00:00<00:05, 799.37it/s] 15%|█▌        | 773/5000 [00:00<00:05, 805.59it/s] 17%|█▋        | 868/5000 [00:01<00:05, 776.64it/s] 19%|█▉        | 954/5000 [00:01<00:05, 799.00it/s] 21%|██        | 1051/5000 [00:01<00:04, 793.33it/s] 23%|██▎       | 1135/5000 [00:01<00:05, 771.99it/s] 25%|██▍       | 1232/5000 [00:01<00:04, 825.34it/s] 26%|██▋       | 1319/5000 [00:01<00:04, 828.72it/s] 28%|██▊       | 1423/5000 [00:01<00:04, 814.92it/s] 30%|███       | 1506/5000 [00:01<00:04, 814.21it/s] 32%|███▏      | 1603/5000 [00:01<00:03, 857.03it/s] 34%|███▍      | 1690/5000 [00:02<00:03, 856.77it/s] 36%|███▌      | 1777/5000 [00:02<00:03, 857.46it/s] 37%|███▋      | 1872/5000 [00:02<00:03, 878.50it/s] 39%|███▉      | 1961/5000 [00:02<00:03, 823.48it/s] 41%|████      | 2045/5000 [00:02<00:03, 799.49it/s] 43%|████▎     | 2126/5000 [00:02<00:03, 794.09it/s] 44%|████▍     | 2206/5000 [00:02<00:03, 722.23it/s] 46%|████▌     | 2294/5000 [00:02<00:03, 753.39it/s] 48%|████▊     | 2397/5000 [00:02<00:03, 790.15it/s] 50%|████▉     | 2477/5000 [00:03<00:03, 708.95it/s] 51%|█████     | 2550/5000 [00:03<00:03, 689.58it/s] 52%|█████▏    | 2620/5000 [00:03<00:03, 662.43it/s] 54%|█████▍    | 2704/5000 [00:03<00:03, 707.52it/s] 56%|█████▌    | 2786/5000 [00:03<00:03, 732.48it/s] 57%|█████▋    | 2869/5000 [00:03<00:02, 759.50it/s] 59%|█████▉    | 2961/5000 [00:03<00:02, 796.71it/s] 61%|██████    | 3042/5000 [00:03<00:02, 784.59it/s] 62%|██████▏   | 3121/5000 [00:03<00:02, 729.77it/s] 65%|██████▍   | 3236/5000 [00:04<00:02, 778.19it/s] 67%|██████▋   | 3338/5000 [00:04<00:01, 842.42it/s] 69%|██████▊   | 3433/5000 [00:04<00:01, 844.02it/s] 71%|███████   | 3527/5000 [00:04<00:01, 860.80it/s] 72%|███████▏  | 3616/5000 [00:04<00:01, 860.04it/s] 74%|███████▍  | 3720/5000 [00:04<00:01, 870.87it/s] 76%|███████▋  | 3814/5000 [00:04<00:01, 890.03it/s] 78%|███████▊  | 3904/5000 [00:04<00:01, 869.25it/s] 80%|███████▉  | 3992/5000 [00:04<00:01, 845.59it/s] 82%|████████▏ | 4077/5000 [00:05<00:01, 842.36it/s] 83%|████████▎ | 4169/5000 [00:05<00:00, 832.91it/s] 85%|████████▌ | 4263/5000 [00:05<00:00, 853.26it/s] 87%|████████▋ | 4363/5000 [00:05<00:00, 855.31it/s] 89%|████████▉ | 4449/5000 [00:05<00:00, 803.36it/s] 91%|█████████▏| 4570/5000 [00:05<00:00, 876.43it/s] 93%|█████████▎| 4658/5000 [00:05<00:00, 870.46it/s] 95%|█████████▍| 4747/5000 [00:05<00:00, 854.17it/s] 97%|█████████▋| 4849/5000 [00:05<00:00, 843.50it/s] 99%|█████████▊| 4934/5000 [00:06<00:00, 829.52it/s]100%|██████████| 5000/5000 [00:06<00:00, 818.21it/s]
+  0%|          | 0/500 [00:00<?, ?it/s]  0%|          | 0/5000 [00:00<?, ?it/s]  1%|▏         | 72/5000 [00:00<00:06, 710.04it/s]  3%|▎         | 144/5000 [00:00<00:07, 651.61it/s]  4%|▍         | 211/5000 [00:00<00:08, 589.65it/s]  6%|▌         | 278/5000 [00:00<00:07, 612.73it/s]  7%|▋         | 340/5000 [00:00<00:07, 613.07it/s]  8%|▊         | 413/5000 [00:00<00:07, 650.23it/s] 10%|▉         | 486/5000 [00:00<00:06, 674.88it/s] 11%|█         | 554/5000 [00:00<00:06, 667.06it/s] 12%|█▏        | 621/5000 [00:00<00:06, 659.57it/s] 14%|█▍        | 688/5000 [00:01<00:06, 623.96it/s] 15%|█▌        | 751/5000 [00:01<00:07, 599.85it/s] 16%|█▌        | 812/5000 [00:01<00:07, 588.36it/s] 18%|█▊        | 877/5000 [00:01<00:06, 598.73it/s] 19%|█▉        | 938/5000 [00:01<00:06, 589.10it/s] 20%|█▉        | 998/5000 [00:01<00:07, 563.69it/s] 21%|██▏       | 1066/5000 [00:01<00:06, 595.25it/s] 23%|██▎       | 1126/5000 [00:01<00:06, 575.21it/s] 24%|██▍       | 1189/5000 [00:01<00:06, 587.85it/s] 25%|██▌       | 1255/5000 [00:02<00:06, 604.53it/s] 26%|██▋       | 1323/5000 [00:02<00:05, 623.11it/s] 28%|██▊       | 1386/5000 [00:02<00:05, 616.63it/s] 29%|██▉       | 1448/5000 [00:02<00:05, 604.99it/s] 30%|███       | 1512/5000 [00:02<00:05, 612.28it/s] 32%|███▏      | 1584/5000 [00:02<00:05, 638.88it/s] 33%|███▎      | 1649/5000 [00:02<00:05, 641.78it/s] 34%|███▍      | 1714/5000 [00:02<00:05, 621.86it/s] 36%|███▌      | 1783/5000 [00:02<00:05, 635.27it/s] 37%|███▋      | 1847/5000 [00:02<00:04, 631.66it/s] 38%|███▊      | 1911/5000 [00:03<00:04, 620.38it/s] 40%|███▉      | 1980/5000 [00:03<00:04, 634.44it/s] 41%|████      | 2052/5000 [00:03<00:04, 650.72it/s] 42%|████▏     | 2121/5000 [00:03<00:04, 659.17it/s] 44%|████▍     | 2202/5000 [00:03<00:03, 701.65it/s] 45%|████▌     | 2273/5000 [00:03<00:03, 696.66it/s] 47%|████▋     | 2343/5000 [00:03<00:04, 640.57it/s] 48%|████▊     | 2408/5000 [00:03<00:04, 625.14it/s] 49%|████▉     | 2472/5000 [00:03<00:04, 607.44it/s] 51%|█████     | 2546/5000 [00:04<00:03, 616.14it/s] 53%|█████▎    | 2629/5000 [00:04<00:03, 653.61it/s] 54%|█████▍    | 2710/5000 [00:04<00:03, 660.32it/s] 56%|█████▌    | 2803/5000 [00:04<00:03, 674.69it/s] 58%|█████▊    | 2882/5000 [00:04<00:03, 657.05it/s] 59%|█████▉    | 2951/5000 [00:04<00:03, 665.38it/s] 61%|██████    | 3034/5000 [00:04<00:02, 680.44it/s] 62%|██████▏   | 3109/5000 [00:04<00:02, 698.09it/s] 64%|██████▎   | 3185/5000 [00:05<00:02, 676.68it/s] 65%|██████▌   | 3261/5000 [00:05<00:02, 662.39it/s] 67%|██████▋   | 3357/5000 [00:05<00:02, 742.54it/s] 69%|██████▊   | 3433/5000 [00:05<00:02, 709.76it/s] 70%|███████   | 3508/5000 [00:05<00:02, 720.75it/s] 72%|███████▏  | 3589/5000 [00:05<00:02, 685.79it/s] 74%|███████▍  | 3689/5000 [00:05<00:01, 729.77it/s] 75%|███████▌  | 3763/5000 [00:05<00:01, 724.51it/s] 77%|███████▋  | 3836/5000 [00:05<00:01, 700.37it/s] 78%|███████▊  | 3916/5000 [00:06<00:01, 695.66it/s] 80%|███████▉  | 3987/5000 [00:06<00:01, 698.65it/s] 81%|████████▏ | 4065/5000 [00:06<00:01, 662.73it/s] 84%|████████▍ | 4212/5000 [00:06<00:00, 879.16it/s] 86%|████████▌ | 4303/5000 [00:06<00:01, 669.80it/s] 88%|████████▊ | 4380/5000 [00:06<00:00, 642.63it/s] 89%|████████▉ | 4470/5000 [00:06<00:00, 643.13it/s] 91%|█████████ | 4543/5000 [00:06<00:00, 661.00it/s] 93%|█████████▎| 4631/5000 [00:07<00:00, 715.70it/s] 95%|█████████▌| 4755/5000 [00:07<00:00, 849.69it/s] 98%|█████████▊| 4895/5000 [00:07<00:00, 948.22it/s]100%|██████████| 5000/5000 [00:07<00:00, 678.78it/s]
+  0%|          | 0/500 [00:00<?, ?it/s]  5%|▌         | 25/500 [24:03<21:01:15, 159.32s/it]  3%|▎         | 13/500 [19:24<24:29:39, 181.07s/it]  5%|▌         | 26/500 [25:07<17:12:46, 130.73s/it]  0%|          | 0/5000 [00:00<?, ?it/s]  2%|▏         | 83/5000 [00:00<00:07, 630.08it/s]  3%|▎         | 156/5000 [00:00<00:07, 607.46it/s]  5%|▍         | 235/5000 [00:00<00:07, 626.52it/s]  6%|▌         | 298/5000 [00:00<00:08, 575.42it/s]  7%|▋         | 357/5000 [00:00<00:08, 568.41it/s]  9%|▊         | 433/5000 [00:00<00:07, 588.13it/s] 10%|█         | 519/5000 [00:00<00:07, 608.24it/s] 12%|█▏        | 584/5000 [00:00<00:07, 619.51it/s] 13%|█▎        | 647/5000 [00:01<00:07, 595.94it/s] 14%|█▍        | 713/5000 [00:01<00:06, 612.52it/s] 16%|█▌        | 775/5000 [00:01<00:07, 566.25it/s] 17%|█▋        | 865/5000 [00:01<00:06, 609.96it/s] 19%|█▉        | 939/5000 [00:01<00:06, 644.14it/s] 20%|██        | 1005/5000 [00:01<00:07, 514.95it/s] 21%|██▏       | 1073/5000 [00:01<00:08, 476.02it/s] 22%|██▏       | 1124/5000 [00:02<00:08, 443.46it/s] 24%|██▎       | 1175/5000 [00:02<00:08, 458.05it/s] 25%|██▍       | 1228/5000 [00:02<00:08, 451.36it/s] 26%|██▋       | 1321/5000 [00:02<00:07, 522.03it/s] 28%|██▊       | 1387/5000 [00:02<00:07, 515.75it/s] 29%|██▉       | 1440/5000 [00:02<00:06, 518.36it/s] 30%|███       | 1502/5000 [00:02<00:06, 534.56it/s] 31%|███       | 1556/5000 [00:02<00:06, 532.97it/s] 32%|███▏      | 1610/5000 [00:03<00:07, 452.80it/s] 33%|███▎      | 1671/5000 [00:03<00:07, 455.78it/s] 35%|███▍      | 1743/5000 [00:03<00:06, 500.88it/s] 36%|███▌      | 1801/5000 [00:03<00:06, 491.55it/s] 37%|███▋      | 1852/5000 [00:03<00:06, 477.13it/s] 38%|███▊      | 1908/5000 [00:03<00:06, 498.35it/s] 40%|███▉      | 1982/5000 [00:03<00:05, 539.89it/s] 41%|████      | 2049/5000 [00:03<00:05, 574.94it/s] 42%|████▏     | 2115/5000 [00:03<00:04, 583.57it/s] 43%|████▎     | 2174/5000 [00:04<00:04, 571.99it/s] 46%|████▌     | 2276/5000 [00:04<00:03, 697.44it/s] 48%|████▊     | 2384/5000 [00:04<00:03, 805.82it/s] 49%|████▉     | 2468/5000 [00:04<00:03, 815.72it/s] 51%|█████     | 2551/5000 [00:04<00:04, 580.41it/s] 52%|█████▏    | 2620/5000 [00:04<00:04, 521.10it/s] 54%|█████▎    | 2680/5000 [00:04<00:04, 531.35it/s] 55%|█████▍    | 2739/5000 [00:04<00:04, 520.84it/s] 56%|█████▌    | 2796/5000 [00:05<00:04, 515.14it/s] 57%|█████▋    | 2874/5000 [00:05<00:03, 556.51it/s] 59%|█████▉    | 2947/5000 [00:05<00:03, 577.98it/s] 61%|██████    | 3032/5000 [00:05<00:03, 627.83it/s] 62%|██████▏   | 3110/5000 [00:05<00:02, 632.90it/s] 64%|██████▎   | 3180/5000 [00:05<00:02, 620.39it/s] 65%|██████▌   | 3252/5000 [00:05<00:02, 590.48it/s] 66%|██████▋   | 3324/5000 [00:05<00:02, 612.41it/s] 68%|██████▊   | 3397/5000 [00:06<00:02, 635.93it/s] 69%|██████▉   | 3463/5000 [00:06<00:02, 619.03it/s] 71%|███████   | 3526/5000 [00:06<00:02, 616.82it/s] 72%|███████▏  | 3589/5000 [00:06<00:02, 612.57it/s] 73%|███████▎  | 3656/5000 [00:06<00:02, 597.75it/s] 75%|███████▌  | 3759/5000 [00:06<00:01, 652.18it/s] 76%|███████▋  | 3824/5000 [00:06<00:01, 643.03it/s] 78%|███████▊  | 3910/5000 [00:06<00:01, 701.55it/s] 80%|███████▉  | 3982/5000 [00:06<00:01, 637.12it/s] 81%|████████  | 4062/5000 [00:07<00:01, 653.23it/s] 83%|████████▎ | 4144/5000 [00:07<00:01, 655.61it/s] 85%|████████▍ | 4240/5000 [00:07<00:01, 666.00it/s] 86%|████████▌ | 4307/5000 [00:07<00:01, 666.31it/s] 88%|████████▊ | 4393/5000 [00:07<00:00, 668.71it/s] 89%|████████▉ | 4462/5000 [00:07<00:00, 674.20it/s] 91%|█████████ | 4530/5000 [00:07<00:00, 657.96it/s] 92%|█████████▏| 4601/5000 [00:07<00:00, 634.22it/s] 93%|█████████▎| 4665/5000 [00:07<00:00, 608.24it/s] 95%|█████████▍| 4746/5000 [00:08<00:00, 635.91it/s] 96%|█████████▋| 4821/5000 [00:08<00:00, 632.49it/s] 98%|█████████▊| 4885/5000 [00:08<00:00, 612.57it/s] 99%|█████████▉| 4960/5000 [00:08<00:00, 612.53it/s]100%|██████████| 5000/5000 [00:08<00:00, 586.29it/s]
+  0%|          | 0/500 [00:00<?, ?it/s]  3%|▎         | 14/500 [20:19<19:17:44, 142.93s/it]  3%|▎         | 15/500 [20:20<13:28:09, 99.98s/it]   5%|▌         | 27/500 [25:55<13:55:02, 105.92s/it]  3%|▎         | 16/500 [20:48<10:32:16, 78.38s/it]  6%|▌         | 28/500 [26:10<10:18:00, 78.56s/it]   3%|▎         | 17/500 [21:02<7:54:35, 58.95s/it]   6%|▌         | 29/500 [26:14<7:21:00, 56.18s/it]   4%|▎         | 18/500 [21:10<5:52:10, 43.84s/it]  4%|▍         | 19/500 [21:16<4:20:40, 32.52s/it]  6%|▌         | 30/500 [26:30<5:46:27, 44.23s/it]  6%|▌         | 31/500 [26:55<5:01:20, 38.55s/it]  4%|▍         | 20/500 [21:46<4:13:30, 31.69s/it]  4%|▍         | 21/500 [21:47<3:00:02, 22.55s/it]  4%|▍         | 22/500 [21:50<2:11:15, 16.48s/it]  5%|▍         | 23/500 [21:52<1:37:21, 12.25s/it]  6%|▋         | 32/500 [27:09<4:01:57, 31.02s/it]  7%|▋         | 33/500 [27:35<3:49:04, 29.43s/it]  7%|▋         | 34/500 [27:43<3:00:39, 23.26s/it]  5%|▍         | 24/500 [23:18<4:31:49, 34.26s/it]  7%|▋         | 35/500 [29:18<5:45:48, 44.62s/it]  7%|▋         | 36/500 [30:02<5:43:14, 44.39s/it]  0%|          | 0/5000 [00:00<?, ?it/s]  1%|▏         | 65/5000 [00:00<00:09, 505.25it/s]  3%|▎         | 150/5000 [00:00<00:08, 560.73it/s]  4%|▍         | 214/5000 [00:00<00:08, 589.77it/s]  5%|▌         | 274/5000 [00:00<00:08, 533.72it/s]  7%|▋         | 328/5000 [00:00<00:08, 530.31it/s]  8%|▊         | 388/5000 [00:00<00:08, 551.49it/s]  9%|▉         | 451/5000 [00:00<00:08, 517.85it/s] 11%|█         | 559/5000 [00:00<00:07, 614.10it/s] 12%|█▏        | 623/5000 [00:01<00:07, 620.42it/s] 14%|█▍        | 699/5000 [00:01<00:06, 656.85it/s] 15%|█▌        | 771/5000 [00:01<00:06, 608.52it/s] 17%|█▋        | 833/5000 [00:01<00:07, 590.92it/s] 18%|█▊        | 893/5000 [00:01<00:07, 556.47it/s] 19%|█▉        | 969/5000 [00:01<00:07, 559.27it/s] 21%|██        | 1026/5000 [00:01<00:07, 538.12it/s] 22%|██▏       | 1085/5000 [00:01<00:07, 520.82it/s] 23%|██▎       | 1151/5000 [00:02<00:07, 518.99it/s] 25%|██▍       | 1238/5000 [00:02<00:07, 532.83it/s] 26%|██▌       | 1297/5000 [00:02<00:06, 535.86it/s] 27%|██▋       | 1359/5000 [00:02<00:07, 515.72it/s] 28%|██▊       | 1411/5000 [00:02<00:07, 505.83it/s] 30%|██▉       | 1475/5000 [00:02<00:07, 499.72it/s] 31%|███       | 1533/5000 [00:02<00:06, 499.78it/s] 32%|███▏      | 1616/5000 [00:02<00:05, 578.05it/s] 34%|███▎      | 1675/5000 [00:03<00:06, 522.99it/s] 35%|███▌      | 1751/5000 [00:03<00:05, 576.55it/s] 36%|███▌      | 1811/5000 [00:03<00:06, 524.70it/s] 37%|███▋      | 1866/5000 [00:03<00:06, 491.37it/s] 38%|███▊      | 1917/5000 [00:03<00:06, 471.58it/s] 39%|███▉      | 1965/5000 [00:03<00:06, 446.36it/s] 40%|████      | 2011/5000 [00:03<00:06, 436.27it/s] 41%|████▏     | 2066/5000 [00:03<00:06, 450.41it/s] 42%|████▏     | 2120/5000 [00:04<00:06, 432.69it/s] 43%|████▎     | 2169/5000 [00:04<00:06, 434.35it/s] 44%|████▍     | 2219/5000 [00:04<00:06, 450.94it/s] 45%|████▌     | 2265/5000 [00:04<00:06, 413.39it/s] 46%|████▌     | 2308/5000 [00:04<00:06, 387.69it/s] 47%|████▋     | 2348/5000 [00:04<00:07, 371.48it/s] 48%|████▊     | 2398/5000 [00:04<00:06, 382.69it/s] 49%|████▉     | 2448/5000 [00:04<00:06, 400.80it/s] 50%|████▉     | 2498/5000 [00:04<00:05, 417.45it/s] 51%|█████     | 2562/5000 [00:05<00:05, 419.38it/s] 53%|█████▎    | 2674/5000 [00:05<00:04, 573.09it/s] 56%|█████▋    | 2823/5000 [00:05<00:02, 809.07it/s] 59%|█████▉    | 2947/5000 [00:05<00:02, 904.60it/s] 61%|██████    | 3042/5000 [00:05<00:02, 866.52it/s] 63%|██████▎   | 3132/5000 [00:05<00:02, 857.28it/s] 65%|██████▍   | 3229/5000 [00:05<00:02, 871.81it/s] 67%|██████▋   | 3361/5000 [00:05<00:01, 995.72it/s] 69%|██████▉   | 3463/5000 [00:06<00:01, 937.75it/s] 71%|███████   | 3559/5000 [00:06<00:01, 876.53it/s] 74%|███████▍  | 3719/5000 [00:06<00:01, 1056.34it/s] 77%|███████▋  | 3854/5000 [00:06<00:01, 1135.74it/s] 80%|███████▉  | 3987/5000 [00:06<00:00, 1157.13it/s] 82%|████████▏ | 4111/5000 [00:06<00:00, 1180.25it/s] 85%|████████▍ | 4231/5000 [00:06<00:00, 1178.07it/s] 87%|████████▋ | 4350/5000 [00:06<00:00, 1125.84it/s] 89%|████████▉ | 4464/5000 [00:06<00:00, 941.41it/s]  91%|█████████▏| 4564/5000 [00:07<00:00, 912.85it/s] 93%|█████████▎| 4663/5000 [00:07<00:00, 872.17it/s] 95%|█████████▌| 4753/5000 [00:07<00:00, 848.34it/s] 97%|█████████▋| 4840/5000 [00:07<00:00, 763.61it/s] 98%|█████████▊| 4919/5000 [00:07<00:00, 704.07it/s]100%|█████████▉| 4992/5000 [00:07<00:00, 633.03it/s]100%|██████████| 5000/5000 [00:07<00:00, 644.98it/s]
+  0%|          | 0/500 [00:00<?, ?it/s]  7%|▋         | 37/500 [34:31<29:33:11, 229.79s/it]  8%|▊         | 38/500 [36:14<24:36:18, 191.73s/it]  8%|▊         | 39/500 [37:15<19:30:59, 152.41s/it]  8%|▊         | 40/500 [37:15<13:39:08, 106.84s/it]  8%|▊         | 41/500 [37:54<11:01:09, 86.43s/it]   8%|▊         | 42/500 [38:40<9:27:42, 74.37s/it]   9%|▊         | 43/500 [38:49<6:56:50, 54.73s/it]  9%|▉         | 44/500 [39:28<6:19:31, 49.94s/it]  9%|▉         | 45/500 [40:37<7:01:49, 55.62s/it]  9%|▉         | 46/500 [41:24<6:40:45, 52.96s/it]  9%|▉         | 47/500 [41:27<4:47:01, 38.02s/it] 10%|▉         | 48/500 [42:57<6:44:39, 53.72s/it]  0%|          | 1/500 [19:20<160:53:14, 1160.71s/it]  0%|          | 2/500 [20:20<71:00:59, 513.37s/it]    1%|          | 3/500 [21:20<42:16:54, 306.27s/it]  1%|          | 4/500 [21:22<25:36:38, 185.88s/it]  1%|          | 5/500 [21:23<16:25:53, 119.50s/it]  1%|          | 6/500 [21:31<11:09:29, 81.32s/it]   1%|▏         | 7/500 [21:34<7:38:17, 55.78s/it]   2%|▏         | 8/500 [21:39<5:26:22, 39.80s/it]  2%|▏         | 9/500 [21:50<4:10:47, 30.65s/it]  2%|▏         | 10/500 [22:00<3:18:13, 24.27s/it]  2%|▏         | 11/500 [22:15<2:54:02, 21.35s/it]  2%|▏         | 12/500 [22:37<2:55:37, 21.59s/it]  0%|          | 1/500 [21:52<181:55:09, 1312.44s/it]  0%|          | 2/500 [22:05<75:50:27, 548.25s/it]    1%|          | 3/500 [22:08<41:18:56, 299.27s/it]  1%|          | 4/500 [22:13<25:11:42, 182.87s/it]  1%|          | 5/500 [22:29<16:51:49, 122.65s/it]  1%|          | 6/500 [22:33<11:20:17, 82.63s/it]   1%|▏         | 7/500 [22:37<7:46:59, 56.83s/it]   0%|          | 1/500 [21:58<182:48:32, 1318.86s/it]  0%|          | 2/500 [22:04<75:37:00, 546.63s/it]    5%|▌         | 25/500 [40:26<43:52:58, 332.59s/it]  2%|▏         | 8/500 [23:08<6:38:50, 48.64s/it]  1%|          | 3/500 [22:29<42:34:58, 308.45s/it]  1%|          | 4/500 [22:34<25:59:18, 188.63s/it]  2%|▏         | 9/500 [23:22<5:07:47, 37.61s/it]  2%|▏         | 10/500 [23:24<3:37:02, 26.58s/it]  0%|          | 1/500 [21:22<177:49:38, 1282.92s/it]  1%|          | 5/500 [23:32<19:26:44, 141.42s/it]  1%|          | 6/500 [23:34<12:53:09, 93.90s/it]   2%|▏         | 11/500 [24:34<5:25:33, 39.95s/it]  2%|▏         | 12/500 [24:42<4:05:35, 30.20s/it]  0%|          | 2/500 [22:02<76:16:22, 551.37s/it]    1%|▏         | 7/500 [24:13<10:24:51, 76.05s/it]  2%|▏         | 8/500 [24:39<8:11:54, 59.99s/it]   1%|          | 3/500 [22:41<43:50:03, 317.51s/it]  2%|▏         | 9/500 [24:40<5:41:07, 41.69s/it]  2%|▏         | 10/500 [24:40<3:56:02, 28.90s/it]  2%|▏         | 11/500 [24:48<3:01:50, 22.31s/it]  2%|▏         | 12/500 [24:57<2:29:21, 18.36s/it]  5%|▌         | 26/500 [43:14<37:16:46, 283.14s/it]  1%|          | 4/500 [23:19<28:33:22, 207.26s/it]  1%|          | 5/500 [23:36<19:01:56, 138.42s/it]  1%|          | 6/500 [23:38<12:38:27, 92.12s/it]   7%|▋         | 37/500 [49:10<48:18:19, 375.59s/it]  1%|▏         | 7/500 [23:54<9:13:57, 67.42s/it]   2%|▏         | 8/500 [23:58<6:25:53, 47.06s/it]  5%|▌         | 27/500 [44:11<28:17:45, 215.36s/it]  8%|▊         | 38/500 [49:23<34:14:46, 266.85s/it]  2%|▏         | 9/500 [24:10<4:57:05, 36.30s/it]  2%|▏         | 10/500 [24:19<3:45:46, 27.65s/it]  6%|▌         | 28/500 [44:33<20:38:05, 157.39s/it]  6%|▌         | 29/500 [44:36<14:29:59, 110.83s/it]  6%|▌         | 30/500 [44:44<10:26:34, 79.99s/it]   2%|▏         | 11/500 [24:49<3:52:39, 28.55s/it]  8%|▊         | 39/500 [50:10<25:42:21, 200.74s/it]  6%|▌         | 31/500 [45:25<8:54:00, 68.32s/it]   6%|▋         | 32/500 [46:11<8:01:14, 61.70s/it]  8%|▊         | 40/500 [51:21<20:41:04, 161.88s/it]  8%|▊         | 41/500 [51:35<14:58:16, 117.42s/it]  7%|▋         | 33/500 [46:28<6:15:54, 48.30s/it]  2%|▏         | 12/500 [26:24<6:36:07, 48.70s/it]  8%|▊         | 42/500 [51:58<11:21:06, 89.23s/it]   7%|▋         | 34/500 [47:11<6:02:12, 46.64s/it]  7%|▋         | 35/500 [47:24<4:44:22, 36.69s/it]  9%|▊         | 43/500 [52:43<9:39:30, 76.09s/it]   9%|▉         | 44/500 [52:57<7:14:43, 57.20s/it]  9%|▉         | 45/500 [52:58<5:05:55, 40.34s/it]  7%|▋         | 36/500 [48:59<6:57:21, 53.97s/it]  9%|▉         | 46/500 [54:34<7:11:54, 57.08s/it]  0%|          | 1/500 [24:26<203:14:26, 1466.27s/it]  0%|          | 2/500 [24:51<85:36:22, 618.84s/it]    1%|          | 3/500 [24:54<46:35:11, 337.45s/it]  9%|▉         | 47/500 [56:00<8:17:39, 65.92s/it] 10%|▉         | 48/500 [56:07<6:03:17, 48.22s/it]  1%|          | 4/500 [25:28<30:00:39, 217.82s/it]  1%|          | 5/500 [25:31<19:15:12, 140.03s/it]  1%|          | 6/500 [25:32<12:45:47, 93.01s/it]   1%|▏         | 7/500 [26:26<10:58:41, 80.16s/it]  2%|▏         | 8/500 [26:30<7:37:45, 55.82s/it]   2%|▏         | 9/500 [26:33<5:22:38, 39.43s/it] 10%|▉         | 49/500 [1:00:26<44:08:56, 352.41s/it] 10%|█         | 50/500 [1:00:44<31:29:13, 251.90s/it]  2%|▏         | 10/500 [27:50<6:56:51, 51.04s/it]  2%|▏         | 11/500 [27:57<5:05:31, 37.49s/it] 10%|█         | 51/500 [1:02:02<24:54:45, 199.75s/it]  2%|▏         | 12/500 [28:19<4:27:52, 32.94s/it] 10%|█         | 52/500 [1:03:45<21:15:53, 170.88s/it] 11%|█         | 53/500 [1:04:09<15:44:08, 126.73s/it] 11%|█         | 54/500 [1:04:14<11:11:34, 90.35s/it]  11%|█         | 55/500 [1:04:25<8:13:25, 66.53s/it]  11%|█         | 56/500 [1:04:40<6:17:44, 51.05s/it]  3%|▎         | 13/500 [41:37<48:44:45, 360.34s/it] 11%|█▏        | 57/500 [1:06:18<7:59:53, 65.00s/it]/usr/lib/python3.8/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 17 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/usr/lib/python3.8/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 17 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/usr/lib/python3.8/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 17 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/usr/lib/python3.8/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 17 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/usr/lib/python3.8/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 17 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/usr/lib/python3.8/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 17 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/usr/lib/python3.8/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 17 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+/usr/lib/python3.8/multiprocessing/resource_tracker.py:216: UserWarning: resource_tracker: There appear to be 17 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

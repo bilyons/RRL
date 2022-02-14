@@ -1,0 +1,591 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Postdoctoral Application Information
+\end_layout
+
+\begin_layout Author
+William Lyons, J.
+ Michael Herrmann
+\end_layout
+
+\begin_layout Standard
+Based on the criteria as outlined: ukri.org/opportunity/epsrc-postdoctoral-fellow
+ship/
+\end_layout
+
+\begin_layout Section*
+Notes for Michael:
+\end_layout
+
+\begin_layout Standard
+This has been put together so far on the outlined above, though I am concerned
+ on three particular aspects:
+\end_layout
+
+\begin_layout Enumerate
+I will not have achieved my PhD when we apply, is this okay?
+\end_layout
+
+\begin_layout Enumerate
+The University is required to fund 20% of this, is this likely?
+\end_layout
+
+\begin_layout Enumerate
+Is my 
+\begin_inset Quotes eld
+\end_inset
+
+record
+\begin_inset Quotes erd
+\end_inset
+
+ sufficient? I will have in theory only had 2 papers even accepted by the
+ time we apply?
+\end_layout
+
+\begin_layout Standard
+From reading the application guide it also seems like Fellowships are primarily
+ person lead with the ability to transfer between institutes where a not
+ small quantity of my time will be toward being an 
+\begin_inset Quotes eld
+\end_inset
+
+ambassador
+\begin_inset Quotes erd
+\end_inset
+
+ and having to undertake a lot of additional training with a significant
+ committment from the university to 
+\begin_inset Quotes eld
+\end_inset
+
+reducing other academic duties
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Does it perhaps not make more sense for us to apply for a Research Grant
+ with you as the Principal Investigator, with the funding to be for my position
+ as a postdoctoral staff, where the grant is bound to the University? This
+ seems more likely to receive help from Edinburgh on this basis given that
+ we are talking about potential business like applications, i.e.
+ robo-physio, where the University will take a significant wedge of that
+ IP? 
+\end_layout
+
+\begin_layout Standard
+If the above is the case, should we apply for this? https://www.ukri.org/opportuni
+ty/epsrc-standard-research-grant/, although this would be us setting up
+ our own individual research group I guess? Or would the sort of thing we
+ are asking fit under ECR, which you may already have a chance to apply
+ for (I don't know if this is the case, I just don't know how any of this
+ works)?
+\end_layout
+
+\begin_layout Section
+Case for Support
+\end_layout
+
+\begin_layout Subsection
+Criteria:
+\end_layout
+
+\begin_layout Standard
+Nine pages: seven on the scientific case and two on the non-technical aspects
+ (non-scientific elements of the assessment criteria)
+\end_layout
+
+\begin_layout Subsection
+Body
+\end_layout
+
+\begin_layout Standard
+Will work on this later.
+\end_layout
+
+\begin_layout Section
+Work plan
+\end_layout
+
+\begin_layout Subsection
+Criteria:
+\end_layout
+
+\begin_layout Standard
+One page
+\end_layout
+
+\begin_layout Subsection
+Body
+\end_layout
+
+\begin_layout Subsubsection
+Stage 1: Adjust the MaxEnt IRL paradigm
+\end_layout
+
+\begin_layout Standard
+For future stages to work we need to consider the idea of preconceived belief
+ and factor this into the maximum entropy inverse reinforcement learning
+ paradigm.
+ The current algorithm assumes all data arrives at once, and thus when providing
+ additional data the algorithm must reset the base assumption.
+\end_layout
+
+\begin_layout Standard
+This is not reflective of learning and as such we should adjust the algorithm.
+ This will require some experimentation and testing in multiple environments,
+ both discrete and continuous-like after some mathematical proofs.
+ This will likely not take more than a month, but is vital.
+ (I may be able to do this before the end of my PhD but it is very time
+ sensitive and as such may have to be considered then, also, would make
+ a good quick first paper).
+\end_layout
+
+\begin_layout Standard
+Why is this important? If the robot is going to work with humans, we must
+ consider the state (the human reward function) to change to some new state
+ following the action (observing the demonstrator) as opposed to resetting
+ and doing gradient ascent again.
+ As such we need a variant of MaxEnt IRL that reflects some known base starting
+ place, and we need some new termination criterias and parameter adjustment
+ mechanics to reflect the recency biases of demonstrations.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Stage 2: Learn to be the perfect teacher
+\end_layout
+
+\begin_layout Standard
+This builds on the work completed in my PhD.
+ Currently the teacher uses a dynaQ+ update model, in the next stages the
+ teacher will use an efficient sampling based method to determine small
+ aspects of trajectories to show the learner in conjunction with the Reflexive
+ Method currently employed.
+\end_layout
+
+\begin_layout Standard
+The next natural step, and thus that of the Postdoc, should be a mutual
+ IRL task, the teacher should observe the learner, and generate the perceived
+ reward function, and then act in such a way to supply trajectories that
+ aid the student in getting closer to the correct reward function (as perceived
+ by the teacher).
+\end_layout
+
+\begin_layout Standard
+This should take a few months, anywhere from 2-4 maybe.
+ Why? This is a sizeable extenstion actually, for this to be effective we
+ need to generate a variety of students and perform an incredibly large
+ amount of training, supplying trajectories back and forth between the teacher
+ and a class of students, however, it builds on what I currently have and
+ will finish on in my PhD.
+ The main issue will be teaching time.
+\end_layout
+
+\begin_layout Standard
+Why is this important? For the robot to explain itself it needs to be able
+ to repeatedly demonstrate and supply trajectories to the 
+\begin_inset Quotes eld
+\end_inset
+
+explaining
+\begin_inset Quotes erd
+\end_inset
+
+ aspect of its own mind.
+ Thus to explain yourself you must learn a separate teaching policy.
+ Part of the architecture as well must be tying together a full trajectory
+ between these key points, i.e.
+ we don't want the agent to have to submit a 1000 length trajectory, but
+ instead focus on the key efforts and then simulate the move between these
+ points.
+\end_layout
+
+\begin_layout Subsubsection
+Stage 3: Explaining yourself
+\end_layout
+
+\begin_layout Standard
+It has been outlined in the paper I sent you (cite: Frontiers paper, I will
+ also be able to reference the case for support which will likely form part
+ of the basis for my Thesis background chapter, two birds one stone) that
+ to break the box of RL we need a combination of articulated explanations
+ with visualisation.
+\end_layout
+
+\begin_layout Standard
+Articulated explanations: Three primary research directions
+\end_layout
+
+\begin_layout Enumerate
+Genetic Program structure: Using states and state, action pairings as terminals,
+ and actions as non-terminals, should provide a simpler breakdown of what
+ the agent does.
+ 1 Month
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Benefits: 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+highly symbolic, if we pre-treat common features and behaviours as subroutines
+ with useful language i.e.
+ if near teapot and Michael wants tea, check for tea bags etc.
+\end_layout
+
+\begin_layout Enumerate
+Visualisable, if the program is simple, has the benefit of being a tree
+ diagram type structure, easy to parse
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Negatives: 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Requires heavy discretisation of the state space, possibly manually, which
+ could bias the result or render it impossible.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Michael has experience with this before and said it was unsuccessful.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Could still be impossible to understand
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Cut out neurons approach Michael described: Uncertain length of time, never
+ done this before
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Benefits:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Minimises the reward function to a simpler, yet similar function
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Negatives: 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Continues to be a potentially difficult to parse object
+\end_layout
+
+\begin_layout Enumerate
+Simplification of some aspects could make it difficult to parse for non-experts
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+Self determined rewards: If the agent determines personal aspects of the
+ state,action space as personally rewarding and builds its reward function
+ from that we may be able to significantly reduce the size of networks involved,
+ or simply extract the numerical function defining the relationship.
+ Several months
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Benefits: 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Easily parsable
+\end_layout
+
+\begin_layout Enumerate
+Agent defined, so no implicit bias
+\end_layout
+
+\begin_layout Enumerate
+Correctable, if one doesn't approve of the relationship between objects,
+ one can simply reorder them
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Negatives:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+This is basically what a neural network does, so we would be somewhat reinventin
+g the wheel in an explicit way by giving it a set of ways to assign reward
+ to itself explicitly during the training process.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+I would suggest a 1 month exploration into each of these following that,
+ spend 3-6 months exploring the most promising one.
+\end_layout
+
+\begin_layout Standard
+Test: Take bipedal walker as an example.
+ The robot should explain some collection of state aspects (primarily, say,
+ the leg joints and gait) and explain how it acts if these are in some discretis
+ed subset of positions.
+ In such a way, it should explain how it walks/avoids obstacles.
+\end_layout
+
+\begin_layout Subsubsection
+Stage 4: Explain yourself to me
+\end_layout
+
+\begin_layout Standard
+The follow up to explaining yourself as you think is appropriate is to adjust
+ that to the learners misconceptions and correct them.
+ This requires two key levels:
+\end_layout
+
+\begin_layout Enumerate
+Identifying the learners belief:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Demonstrate what you're doing
+\end_layout
+
+\begin_layout Enumerate
+Explain what you're thinking at each stage
+\end_layout
+
+\begin_layout Enumerate
+Watch the learner
+\end_layout
+
+\begin_layout Enumerate
+IRL on the learner
+\end_layout
+
+\begin_layout Enumerate
+Select correct trajectories for the learner
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Identifying the learners level of experitse.
+ Differential Explanation.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Observe the learner and identify their skill level
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Skill level is a function of the distance between the expert's reward function
+ and the reward function of the learner
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Simplify yourself
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Consider key aspects are understood
+\end_layout
+
+\begin_layout Enumerate
+Take highest dimensional difference(s) outside of this
+\end_layout
+
+\begin_layout Enumerate
+Show trajectories which fix most major issues
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Move your own reward function along the vector between the two distributions,
+ this implies there's a direct path between the two (functional improvement
+ of the learner) and keep bringing the student to the 
+\begin_inset Quotes eld
+\end_inset
+
+less intelligent
+\begin_inset Quotes erd
+\end_inset
+
+ version of yourself, until they can get to the expertise.
+ We already see this equivalent in real teaching e.g.
+ chemistry and the structure of an atom 1.
+ Plum pudding 2.
+ Electrons in rings around the nucleus 3.
+ Energy levels 4.
+ Quantum phenomena
+\end_layout
+
+\end_deeper
+\end_deeper
+\end_deeper
+\begin_layout Standard
+Allow 6 months for this
+\end_layout
+
+\begin_layout Subsubsection
+Visualise
+\end_layout
+
+\begin_layout Standard
+Throughout this it would be nice if we found a good real or simulated robot
+ task to explain that is sufficiently complicated.
+ We could then work with a simulated environment to generate the counterfactual
+ trajectories perhaps?
+\end_layout
+
+\begin_layout Section
+Host Organisation Statement
+\end_layout
+
+\begin_layout Standard
+For Edinburgh should they agree
+\end_layout
+
+\begin_layout Section
+Justification of Resources
+\end_layout
+
+\begin_layout Enumerate
+Probably need a new laptop for the sort of work we are going to consider
+ as there will likely be graphical elements and I'll need a dedicated GPU
+ for the sort of NN training we will do.
+\end_layout
+
+\begin_layout Section
+Narrative CV and Track Record
+\end_layout
+
+\begin_layout Standard
+Template to be filled out if Edinburgh supports the early draft
+\end_layout
+
+\begin_layout Section
+Project Partner Letters
+\end_layout
+
+\begin_layout Standard
+?
+\end_layout
+
+\begin_layout Section
+Technical Assessments for Facilities
+\end_layout
+
+\begin_layout Standard
+?
+\end_layout
+
+\begin_layout Section
+Cover Letter
+\end_layout
+
+\begin_layout Standard
+To be done if all else is approved
+\end_layout
+
+\end_body
+\end_document

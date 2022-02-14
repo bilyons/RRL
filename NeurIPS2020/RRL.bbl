@@ -1,0 +1,148 @@
+\begin{thebibliography}{22}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Amodei et~al.(2016)Amodei, Olah, Steinhardt, Christiano, Schulman, and
+  Man{\'e}]{amodei2016concrete}
+Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and
+  Dan Man{\'e}.
+\newblock Concrete problems in ai safety.
+\newblock \emph{arXiv preprint arXiv:1606.06565}, 2016.
+
+\bibitem[Baird(1995)]{baird1995residual}
+Leemon Baird.
+\newblock Residual algorithms: Reinforcement learning with function
+  approximation.
+\newblock In \emph{Machine Learning Proceedings 1995}, pages 30--37. Elsevier,
+  1995.
+
+\bibitem[Balakrishnan et~al.(2019)Balakrishnan, Bouneffouf, Mattei, and
+  Rossi]{balakrishnan2019incorporating}
+Avinash Balakrishnan, Djallel Bouneffouf, Nicholas Mattei, and Francesca Rossi.
+\newblock Incorporating behavioral constraints in online ai systems.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~33, pages 3--11, 2019.
+
+\bibitem[Bialek and Tishby(1999)]{bialek1999predictive}
+William Bialek and Naftali Tishby.
+\newblock Predictive information, 1999.
+\newblock arXiv/cond-mat/9902341.
+
+\bibitem[Blaes et~al.(2019)Blaes, Pogan{\v{c}}i{\'c}, Zhu, and
+  Martius]{blaes2019control}
+Sebastian Blaes, Marin~Vlastelica Pogan{\v{c}}i{\'c}, Jiajie Zhu, and Georg
+  Martius.
+\newblock Control what you can: Intrinsically motivated task-planning agent.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pages
+  12520--12531, 2019.
+
+\bibitem[Chentanez et~al.(2005)Chentanez, Barto, and
+  Singh]{chentanez2005intrinsically}
+Nuttapong Chentanez, Andrew~G Barto, and Satinder~P Singh.
+\newblock Intrinsically motivated reinforcement learning.
+\newblock In \emph{Advances in Neural Information Processing Systems}, pages
+  1281--1288, 2005.
+
+\bibitem[Der and Martius(2012)]{der2012playful}
+Ralf Der and Georg Martius.
+\newblock \emph{The playful machine: {T}heoretical foundation and practical
+  realization of self-organizing robots}, volume~15.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem[Friston et~al.(2006)Friston, Kilner, and Harrison]{friston2006free}
+Karl Friston, James Kilner, and Lee Harrison.
+\newblock A free energy principle for the brain.
+\newblock \emph{Journal of Physiology-Paris}, 100\penalty0 (1-3):\penalty0
+  70--87, 2006.
+
+\bibitem[Herrmann and Der(1995)]{herrmann1995efficient}
+M~Herrmann and R~Der.
+\newblock Efficient {Q}-learning by division of labour.
+\newblock In \emph{Proceedings ICANN}, volume~95, pages 129--134, 1995.
+
+\bibitem[Kaelbling et~al.(1998)Kaelbling, Littman, and
+  Cassandra]{kaelbling1998planning}
+Leslie~Pack Kaelbling, Michael~L Littman, and Anthony~R Cassandra.
+\newblock Planning and acting in partially observable stochastic domains.
+\newblock \emph{Artificial intelligence}, 101\penalty0 (1-2):\penalty0 99--134,
+  1998.
+
+\bibitem[Klyubin et~al.(2005{\natexlab{a}})Klyubin, Polani, and
+  Nehaniv]{klyubin2005all}
+Alexander~S Klyubin, Daniel Polani, and Chrystopher~L Nehaniv.
+\newblock All else being equal be empowered.
+\newblock In \emph{European Conference on Artificial Life}, pages 744--753.
+  Springer, 2005{\natexlab{a}}.
+
+\bibitem[Klyubin et~al.(2005{\natexlab{b}})Klyubin, Polani, and
+  Nehaniv]{klyubin2005empowerment}
+Alexander~S Klyubin, Daniel Polani, and Chrystopher~L Nehaniv.
+\newblock Empowerment: A universal agent-centric measure of control.
+\newblock In \emph{2005 IEEE Congress on Evolutionary Computation}, volume~1,
+  pages 128--135. IEEE, 2005{\natexlab{b}}.
+
+\bibitem[Leike et~al.(2017)Leike, Martic, Krakovna, Ortega, Everitt, Lefrancq,
+  Orseau, and Legg]{leike2017ai}
+Jan Leike, Miljan Martic, Victoria Krakovna, Pedro~A Ortega, Tom Everitt,
+  Andrew Lefrancq, Laurent Orseau, and Shane Legg.
+\newblock Ai safety gridworlds.
+\newblock \emph{arXiv preprint arXiv:1711.09883}, 2017.
+
+\bibitem[Ng and Russell(2000)]{ng2000algorithms}
+Andrew~Y Ng and Stuart~J Russell.
+\newblock Algorithms for inverse reinforcement learning.
+\newblock In \emph{{IMCL}}, pages 663--670, 2000.
+
+\bibitem[Pathak et~al.(2017)Pathak, Agrawal, Efros, and
+  Darrell]{pathak2017curiosity}
+Deepak Pathak, Pulkit Agrawal, Alexei~A Efros, and Trevor Darrell.
+\newblock Curiosity-driven exploration by self-supervised prediction.
+\newblock In \emph{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition Workshops}, pages 16--17, 2017.
+
+\bibitem[Pfau and Vinyals(2016)]{pfau2016connecting}
+David Pfau and Oriol Vinyals.
+\newblock Connecting generative adversarial networks and actor-critic methods.
+\newblock \emph{arXiv preprint arXiv:1610.01945}, 2016.
+
+\bibitem[Salge et~al.(2014)Salge, Glackin, and Polani]{salge2014empowerment}
+Christoph Salge, Cornelius Glackin, and Daniel Polani.
+\newblock Empowerment -- {A}n introduction.
+\newblock In \emph{Guided Self-Organization: Inception}, pages 67--114.
+  Springer, 2014.
+
+\bibitem[Smith and Herrmann(2019)]{smith2018evaluation}
+Sim{\'o}n~C Smith and J~Michael Herrmann.
+\newblock Evaluation of internal models in autonomous learning.
+\newblock \emph{IEEE Transactions on Cognitive and Developmental Systems},
+  11\penalty0 (4):\penalty0 463--472, 2019.
+
+\bibitem[Still and Precup(2012)]{still2012information}
+Susanne Still and Doina Precup.
+\newblock An information-theoretic approach to curiosity-driven reinforcement
+  learning.
+\newblock \emph{Theory in Biosciences}, 131\penalty0 (3):\penalty0 139--148,
+  2012.
+
+\bibitem[Tschantz et~al.(2020)Tschantz, Millidge, Seth, and
+  Buckley]{tschantz2020reinforcement}
+Alexander Tschantz, Beren Millidge, Anil~K Seth, and Christopher~L Buckley.
+\newblock Reinforcement learning through active inference.
+\newblock \emph{arXiv preprint arXiv:2002.12636}, 2020.
+
+\bibitem[Zhao et~al.(2019)Zhao, Tiomkin, and Abbeel]{zhao2019learning}
+Ruihan Zhao, Stas Tiomkin, and Pieter Abbeel.
+\newblock Learning efficient representation for intrinsic motivation.
+\newblock \emph{arXiv preprint arXiv:1912.02624}, 2019.
+
+\bibitem[Ziebart et~al.(2008)Ziebart, Maas, Bagnell, and
+  Dey]{ziebart2008maximum}
+Brian~D Ziebart, Andrew~L Maas, J~Andrew Bagnell, and Anind~K Dey.
+\newblock Maximum entropy inverse reinforcement learning.
+\newblock In \emph{Proc. 23$^{\rm rd}$ AAAI Conference on Artificial
+  Intelligence}, volume~8, pages 1433--1438. Chicago, IL, USA, 2008.
+
+\end{thebibliography}

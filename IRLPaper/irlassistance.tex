@@ -1,0 +1,147 @@
+\documentclass{article}
+\usepackage[margin=1.5in]{geometry}
+
+%\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{hyperref}       % hyperlinks
+%\usepackage{url}            % simple URL typesetting
+%\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+%\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+%\usepackage{microtype}      % microtypography
+
+
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{amsmath}
+
+\sloppy
+
+
+
+\title{Embodying and Representing States\\ in Reflexive Reinforcement Learning}
+
+\author{
+  Billy I.~Lyons \quad \quad J.~Michael Herrmann \\
+  \\
+ {\normalsize Institute for Perception, Action and Behaviour}\\
+ {\normalsize School of Informatics, University of Edinburgh}\\
+ {\normalsize 10 Crichton St, Edinburgh, EH8 9AB, U.K.}\\
+  \texttt{\normalsize\{Billy.Lyons|Michael.Herrmann\}@ed.ac.uk} \\
+}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+\subsection{Inverse Reinforcement Learning}
+Inverse reinforcement learning (IRL) is an instance of the inverse problem relavant for reinforcement learning (RL). The aim is to reconstruct the reward function from the obeservation of 
+an Markov devision process (MDP). The methods assume the the observed behaviour 
+is optimal or near optimal with respect to the original reinforcement learning 
+problem~\cite{ng2000algorithms}, which we will call the \emph{primal} problem.
+
+We ask here whether an agent that is optimally trained on the primal problem can modulate its behaviour so that any observations are suitable for the IRL task. This question can be asked for a specific or for 
+numerous IRL algorithms, but it can also be formulated as the task for the primal agent to act in such a way as to convey maximal information about primal states and action sequences such that
+
+\begin{enumerate}
+\item the agent indicates the equality of the value of states
+\item identifies suboptimal actions that would be avoided by a greedy agent
+\item provides information about probabilistic and deterministic state transitions oif this is
+compatiple with the previous item.
+\item it produces a maximum entropy distribution of paths under previously mentioned constraints.
+\end{enumerate}
+
+by choosing a noise level that reveals the full 
+
+%IN THE PAPER I THINK WE SHOULD GO MUCH MORE IN DEPTH ON IRL BUT FOR THE ILLUSTRATION OF THE POINT I WAS TRYING TO GET ACROSS I HAVE LEFT IT FOR NOW.
+
+This paper concerns itself with the solution to item one, by our method of reflexive reinforcement learning, by developing an agent which can ``reflect'' on-line and act in such a way as to maximise information provided to the maximum entropy inverse reinforcement learning agent \cite{ziebart2008maximum}.
+
+\subsubsection{Maximum Entropy Inverse Reinforcement Learning}
+
+brief descriptor of the specific setting of maximum entropy inverse reinforcement learning. discussion of partition function and the need to integrate over all valid trajectories and the computational difficulties of such in continuous and sufficiently large discrete spaces. cite some approaches to using neural networks for such domains and different approaches and their successes in estimating the partition function
+
+\cite{finn2016connection}
+
+\section{Reflexive Reinforcement Learning}
+
+very brief overview~\cite{lyons2020relexive}
+
+\section{Methods}
+
+As we have shown in our previous work, what constitutes as a reflexive component in an RRL system is highly flexible and variable, and it is our opinion that in larger and more complex systems one may need several reflexive components to develop a complex system which may serve to form a robust behavioural hierarchy, and that one may wish to pre-train such components, as in the case of identifying spaces of empowerment; however, with this task the aim is to provide an agent with a simple reflexive reward working in tandem with the task related reward, only using the readily available information one might expect the agent to have.
+
+\subsection{Environment}
+We will start with an illustrative toy experiment in a $5\times 5$ world, consisting of two terminal states in the two corners on sharing a side in the world space. %(generate a simple figure for this Billy)
+
+Upon initialisation the agent is uniformly placed in any of the grids in the state space, barring either terminal. The agent's state consists entirely of the single state it is currently residing in state $= [s]$ such that $s \in S$.
+
+\subsection{Policy}
+
+In this paper we use a traditional function approximation approach for state-action pairs
+
+\begin{eqnarray} 
+Q^{\pi}(x,a)&=&E_{\pi}\left[ \sum_{t=0}^\infty\gamma^{t} r_t| x_0 = x, a_0 = a \right] \\
+V^{\pi}(x)&=&E_{\pi}\left[ \sum_{t=0}^\infty\gamma^{t} r_t | x_0 = x \right]
+\end{eqnarray}
+\noindent where $Q^{\pi}(x,a)$ is updated by~\cite{sutton1999reinforcement}
+\begin{equation} \label{faeqn}
+\Delta Q^{\pi}(x,a) = \alpha \left(r_t + \gamma V^{\pi}(x_{t+1}) -  Q^{\pi}(x,a) \right)
+\end{equation}
+
+\noindent with learning rate $\alpha$ and the value is given by
+
+\begin{equation}
+	V^{\pi}(x_{t+1})=\max_a Q^{\pi}(x_{t+1},a).
+\end{equation}
+
+\noindent With softmax action selection:
+
+\begin{equation}
+	\pi(a|s) = \frac{\exp(Q_t(a)/\tau)}{\sum_{b=1}^{n} \exp(Q_t(b)/\tau)}
+\end{equation}
+
+\section{New idea}
+
+During each episode, all non visited state-action pairs have a quantity $\zeta$ added to their value:
+Given some episode $E$ of maximum duration $T$, we have an episode history $e_h = \{s_1, a_1, ..., s_t, a_t\}$ where $t \leq T$, such that $s_i, a_i$ represents the state occupied and the action selected at time $i$
+\begin{equation}
+ \forall s, a \not\in e_h, \quad Q^\pi (s,a) = Q^\pi (s,a) + \zeta
+\end{equation}
+The entropy of each state within the space can be calculated such that, for any state $s \in S$
+\begin{equation}
+H(s) = - \sum_{a \in A} p(a|s) \log p(a|s)
+\end{equation}
+this will serve as our reflexive reward, $r_r$.
+
+We adapt equation \ref{faeqn} such that, for any desired ``future insight window'' of length $n$ time steps, with 
+\begin{equation}
+\Delta Q^{\pi}(x,a) = \alpha \left(r_t + \gamma V^{\pi}(x_{t+1}) -  Q^{\pi}(x,a) \right) + \alpha \left(r_r + \gamma V^{\pi}(x_{t+n}) - V^{\pi}(x_{t+1}) \right)
+\end{equation}
+
+NOTE: Not entirely sure on the last half of the equation. This could just be the future entropy of the next states in the $t+n$ window. Its likely the learning rate would have to be different and the same with step size to keep the impact very minor.
+
+But essentially, the agent will be rewarding future uncertainty, and by adding back some small amount for unvisited states per episode, whenever the agent is in the symmetry state it will look ahead and see that the region, in our case LHS or RHS of the world space that has less recently been visited will be the most likely choice.
+
+Perhaps instead the effect would be better if:
+At each time step, prior to action the agent reflects
+\begin{equation}
+\forall a \in A, \quad \Delta Q^{\pi}(x,a) = \alpha \left(r_r + \gamma V^{\pi}(x_{t+n}) - V^{\pi}(x_{t+1}) \right)
+\end{equation}
+Agent moves
+\begin{equation}
+\Delta Q^{\pi}(x,a) = \alpha \left(r_t + \gamma V^{\pi}(x_{t+1}) -  Q^{\pi}(x,a) \right) 
+\end{equation}
+So the tuple for reflexive reinforcement learning would be, instead of SARSA (state, action, reward, state, action) it would be SRARS (state, reflection, action, reward, state ... and so on), you could even possibly say "state, reflection, action, reflection, state, action...
+
+Do you think this will work? It has the prerequisite from our previous conversations that we are not augmenting the state in any way, this is simply using the additional information that is normally lost in the learning process to make such decisions.
+
+
+\bibliographystyle{plain}
+\bibliography{irlassistance.bib}
+
+\end{document}
+
